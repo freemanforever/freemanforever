@@ -1,13 +1,14 @@
-## Hi there and welcome to my Github page!
+# Hi there and welcome to my Github page!
 #
 
 I fond of HTML, CSS, JavaScript, React, Node.js
 
+I’m currently :books: Nextjs, Tailwindcss, Redux-toolkit, Redux Store
+
 Owner of 3 beautiful :smile_cat:
 
-In :heartpulse: with Twitch.tv and Board with nails
+Sometimes I really like to use board with nails
 
-I’m currently :books: Nextjs, Tailwindcss, Redux-toolkit, Redux Store
 
 <!--
 **freemanforever/freemanforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
