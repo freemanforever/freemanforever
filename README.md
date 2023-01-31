@@ -1,9 +1,13 @@
 ### Hi there and welcome to my Github page!
 #
 
-💻 HTML, CSS, JavaScript, React, Node.js
+💻 I fond of HTML, CSS, JavaScript, React, Node.js
 
-⚡ 
+ Owner of 3 beautiful :smile_cat:
+
+In :heartpulse: with Twitch.tv, Board with nails
+
+
 <!--
 **freemanforever/freemanforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
