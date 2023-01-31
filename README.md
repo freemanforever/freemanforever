@@ -1,7 +1,7 @@
 # Hi there and welcome to my Github page!
 #
 
-I fond of HTML, CSS, JavaScript, React, Node.js
+I fond of HTML, CSS, JavaScript, React.js, Node.js
 
 I’m currently :books: Nextjs, Tailwindcss, Redux-toolkit, Redux Store
 
