@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there and welcome to my Github page!
+#
 
+💻 HTML, CSS, JavaScript, React, Node.js
+
+⚡ 
 <!--
 **freemanforever/freemanforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
