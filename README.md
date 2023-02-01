@@ -8,7 +8,7 @@ I’m currently :books: Nextjs, Tailwindcss, Redux-toolkit, Redux Store
 
 Owner of 3 beautiful :smile_cat:
 
-Sometimes I really like to use board with nails
+Sometimes I really like to step on board with nails ;)
 
 <!--
 **freemanforever/freemanforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
