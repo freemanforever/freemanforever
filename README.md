@@ -2,7 +2,7 @@
 
 #
 
-I really fond of HTML, CSS, JavaScript, React.js, Node.js
+I really fond of HTML, CSS, JavaScript and React.js
 
 I’m currently :books: Nextjs, Tailwindcss, Redux-toolkit, Redux Store
 
