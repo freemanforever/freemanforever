@@ -4,7 +4,7 @@
 
 I really fond of HTML, CSS, JavaScript and React.js
 
-I’m currently :books: Nextjs, Tailwindcss, Redux-toolkit, Redux Store
+I’m currently :books: TypeScript, GraphQL, Next.js, Redux-toolkit, Redux Store
 
 Owner of 3 beautiful :smile_cat:
 
